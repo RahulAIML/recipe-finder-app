@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # recipe-finder-app
 RecipeFinder — A simple app to search and discover recipes based on ingredients you already have at home. Powered by TheMealDB API.
 =======
@@ -49,7 +48,7 @@ A simple and attractive Recipe Finder application built with React that helps us
 
 - React
 - Material-UI (MUI)
-- Edamam Recipe Search API
+- MealDB Recipe Search API
 - React Hooks
 - CSS3
 
@@ -66,7 +65,7 @@ A simple and attractive Recipe Finder application built with React that helps us
    - Manages ingredients list and recipes data
 
 3. **API Integration**:
-   - Fetches recipes from Edamam API
+   - Fetches recipes from MealDB API
    - Implements debouncing to prevent excessive API calls
 
 4. **UI/UX**:
@@ -81,4 +80,3 @@ A simple and attractive Recipe Finder application built with React that helps us
 - Add filters (meal type, cuisine, diet restrictions)
 - Include cooking time and difficulty level
 - Add pagination for search results
->>>>>>> 2e031804 (Initial commit with all project files)
