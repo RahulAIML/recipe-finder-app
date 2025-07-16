@@ -21,13 +21,9 @@ A simple and attractive Recipe Finder application built with React that helps us
    npm install
    ```
 3. Get your API credentials:
-   - Go to [Edamam Developer Portal](https://developer.edamam.com/)
-   - Sign up and create a new application to get your API ID and Key
-   - Create a `.env` file in the root directory and add:
-     ```
-     REACT_APP_EDAMAM_APP_ID=your_app_id
-     REACT_APP_EDAMAM_APP_KEY=your_app_key
-     ```
+   - Go to [TheMealDB Portal](https://developer.edamam.com/](https://www.themealdb.com/api.php))
+   - Sign up and create , you don't need any api key , you can fetch directly .
+
 
 4. Start the development server:
    ```bash
@@ -65,7 +61,7 @@ A simple and attractive Recipe Finder application built with React that helps us
    - Manages ingredients list and recipes data
 
 3. **API Integration**:
-   - Fetches recipes from MealDB API
+   - Fetches recipes from TheMealDB API
    - Implements debouncing to prevent excessive API calls
 
 4. **UI/UX**:
